@@ -1,3 +1,7 @@
+:root {
+  --bgcolor-gray: #212529;
+}
+
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -12,11 +16,11 @@ body {
 }
 
 .btn-info-gray {
-  background-color: #212529;
+  background-color: var(--bgcolor-gray);
 }
 
 .btn-outline-gray {
-  border-color: #212529;
+  border-color: var(--bgcolor-gray);
 }
 
 /* Mis trabajos */
