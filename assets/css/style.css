@@ -15,6 +15,10 @@ body {
   background-color: #212529;
 }
 
+.btn-outline-gray {
+  border-color: #212529;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
