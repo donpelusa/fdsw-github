@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.btn-info-gray {
+  background-color: #212529;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
